@@ -6,3 +6,7 @@ Allows users to manage their pettycash.
 
 Currently in use by Max-group bd
 
+Technology stack
+- Angular 4
+- Node js
+- Mongodb
